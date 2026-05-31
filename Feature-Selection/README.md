@@ -74,9 +74,6 @@ Backward Elimination starts with all features and removes the least important fe
 - Both methods returned optimal subsets of features.
 - Reduced feature space improved interpretability and efficiency.
 
-## Files
-- `feature_selection.py` – Python script implementing Forward Selection and Backward Elimination.
-
 ## Future Improvements
 - Try different number of selected features.
 - Compare results with PCA and SVD.
